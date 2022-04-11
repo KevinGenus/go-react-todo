@@ -1,0 +1,11 @@
+@use '../../styles/base.scss';
+
+.todo-list {
+  padding: 1rem;
+  list-style: none;
+}
+
+
+.todo-list-loader {
+  color: rgb(145, 145, 145);
+}
